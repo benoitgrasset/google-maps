@@ -4,7 +4,7 @@ import fetch from "node-fetch";
 // console.cloud.google.com/apis/credentials
 // console.cloud.google.com/billing
 
-const API_KEY = "AIzaSyAsXez5tBSVJi-EDCS7wqzU3glPJDKBu-8";
+const API_KEY = "YOUR_API_KEY";
 
 function convertToQueryString(paramsObject) {
   const str = [];
