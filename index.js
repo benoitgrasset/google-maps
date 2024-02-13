@@ -1,5 +1,9 @@
 import fetch from "node-fetch";
 
+// API Google Places - payant
+// console.cloud.google.com/apis/credentials
+// console.cloud.google.com/billing
+
 const API_KEY = "AIzaSyAsXez5tBSVJi-EDCS7wqzU3glPJDKBu-8";
 
 function convertToQueryString(paramsObject) {
